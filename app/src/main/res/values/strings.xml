@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">ON</string>
+    <string name="action_settings">Settings</string>
+    <string name="username">懒懒杨</string>
+    <string name="email">lanlandeyy@icloud.com</string>
+    <string name="home">Home</string>
+    <string name="camera">Watch</string>
+    <string name="guide">Guide</string>
+    <string name="me">Me</string>
+    <string name="about">About</string>
+    <string name="add_device">Add device</string>
+    <string name="cheese_ipsum">Jarlsberg lancashire edam. Dolcelatte hard cheese brie st. agur blue
+    cheese caerphilly bavarian bergkase cheese and biscuits mascarpone. Cheeseburger swiss bavarian
+    bergkase cream cheese fromage frais cheesy feet port-salut airedale. St. agur blue cheese rubber
+    cheese caerphilly cheddar cheesecake cream cheese manchego lancashire. Roquefort squirty cheese
+    the big cheese.</string>
+
+
+
+    <string name="rd_repeat">Repeat</string>
+    <string name="rd_daily">Daily</string>
+    <string name="rd_weekly">Weekly</string>
+    <string name="rd_monthly">Monthly</string>
+    <string name="rd_yearly">Yearly</string>
+    <string name="rd_none">None</string>
+    <string name="rd_every">Every</string>
+    <string name="rd_day">day</string>
+    <string name="rd_days">days</string>
+    <string name="rd_week">week</string>
+    <string name="rd_weeks">weeks</string>
+    <string name="rd_month">month</string>
+    <string name="rd_months">months</string>
+    <string name="rd_year">year</string>
+    <string name="rd_years">years</string>
+    <string name="rd_forever">Forever</string>
+    <string name="rd_until">Until</string>
+    <string name="rd_until_full">Until a date</string>
+    <string name="rd_for">For</string>
+    <string name="rd_for_full">For a number of events</string>
+    <string name="rd_month_same_day">on the same day each month</string>
+    <string name="rd_month_last">on every last %s</string>
+    <string name="rd_month_first">on every first %s</string>
+    <string name="rd_month_second">on every second %s</string>
+    <string name="rd_month_third">on every third %s</string>
+    <string name="rd_month_fourth">on every fourth %s</string>
+    <string name="rd_event">event</string>
+    <string name="rd_events">events</string>
+</resources>

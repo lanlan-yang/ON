@@ -1,0 +1,28 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".MainActivity">
+
+    <group>
+        <item
+            android:id="@+id/nav_WeaStation"
+            android:icon="@mipmap/ic_home_black"
+            android:title="客厅" />
+
+        <item
+            android:id="@+id/nav_camera"
+            android:icon="@mipmap/ic_camera"
+            android:title="卧室" />
+
+        <item
+            android:id="@+id/nav_guide"
+            android:icon="@mipmap/ic_explore_black"
+            android:title="厕所" />
+
+        <item
+            android:id="@+id/nav_me"
+            android:icon="@mipmap/ic_face_black"
+            android:title="书房" />
+    </group>
+
+</menu>
